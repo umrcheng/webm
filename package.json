@@ -1,14 +1,13 @@
 {
-  "name": "轻量级视频管理器",
+  "name": "webm",
   "version": "1.0.0",
   "author": "umrchemg",
-  "github": "",
+  "github": "https://github.com/umrcheng/webm",
   "mailbox": "umrcheng@163.com",
   "dependencies": {
   },
   "path": [
-    "D:\\26412\\OneDrive\\code\\Python\\python练习项目\\flask显示目录\\static\\video",
-    "D:/download/video/"
+    "D:\\download\\video"
   ],
   "address": "0.0.0.0",
   "port": 80
