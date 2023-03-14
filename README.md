@@ -4,6 +4,9 @@
 
 一款精简的本地媒体...
 
+CPU占用率和占用内存非常低
+
+![uTools_1678799164674](https://suiluo.top/upload/2023/03/uTools_1678799164674.png)
 
 
 ## 使用教程
@@ -57,11 +60,10 @@
 如果你的`port`也改了那么要在输入的后面加上例如：改成了8888 `127.0.0.1:8888`
 
 
-
-看到这个界面就表示成功了，其它就自行探索吧
-
+看到这个界面就表示成功了
 
 
+![uTools_1678801113712](https://suiluo.top/upload/2023/03/uTools_1678801113712.png)
 
 
 ## 其他设备访问
@@ -74,7 +76,9 @@
 
 这里以手机为例
 
+![Screenshot_2023-03-14-22-48-09-041_com.android.br.jpg](https://suiluo.top/upload/2023/03/Screenshot_2023-03-14-22-48-09-041_com.android.br.jpg)
 
+![20230314224509](https://suiluo.top/upload/2023/03/20230314224509.jpg)
 
 
 
