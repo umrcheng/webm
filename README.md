@@ -1,3 +1,4 @@
 # webm
 
-[教程](https://github.com/umrcheng/webm/blob/main/tutorial1)
+[教程](https://github.com/umrcheng/webm/wiki/tutorial1)
+
